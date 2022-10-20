@@ -1,0 +1,2 @@
+run = 'npm --prefix ./web3_4 run dev'
+entrypoint = './jaygallery/pages/index.jsx'
